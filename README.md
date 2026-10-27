@@ -22,15 +22,15 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 ### PSOC™ Edge
 
-- [PSOC™ Edge training](https://github.com/Infineon/mtb-training-psoc-edge) - Follow the getting-started sequence, then explore security, machine learning, graphics, voice and audio, and memory topics.
+- [PSOC™ Edge training](https://github.com/luisreynosoIFX/mtb-training-psoc-edge) - Follow the getting-started sequence, then explore security, machine learning, graphics, voice and audio, and memory topics.
 
 ### PSOC™ 4
 
-- [PSOC™ 4 Multi-Sense training](https://github.com/Infineon/mtb-training-psoc-multi-sense) - Get started with PSOC™ 4 Multi-Sense and choose deeper dives into CAPSENSE™, inductive sensing, liquid-level sensing, BIST, and safety testing.
+- [PSOC™ 4 Multi-Sense training](https://github.com/luisreynosoIFX/mtb-training-psoc-multi-sense) - Get started with PSOC™ 4 Multi-Sense and choose deeper dives into CAPSENSE™, inductive sensing, liquid-level sensing, BIST, and safety testing.
 
 ### PSOC™ Control C3
 
-- [PSOC™ Control C3 training](https://github.com/Infineon/mtb-training-psoc-control-c3) - A 12-session E2 course covering applications, architecture, peripherals, power, security, safety, development workflows, and motor control.
+- [PSOC™ Control C3 training](https://github.com/luisreynosoIFX/mtb-training-psoc-control-c3) - A 12-session E2 course covering applications, architecture, peripherals, power, security, safety, development workflows, and motor control.
 
 ## Other devices
 
