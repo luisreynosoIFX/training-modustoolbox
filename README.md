@@ -22,44 +22,15 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 ### PSOC™ Edge
 
-- [PSOC™ Edge introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-introduction) - The training provides an introduction to PSOC™ Edge. It provides an overview of the features and capabilities of PSOC™ Edge, including its hardware-assisted Machine Learning/Machine Intelligence (ML/ML) and artificial intelligence (AI) capabilities, sensor fusion, and real-time control. 
-
-- [PSOC™ Edge getting started](https://github.com/Infineon/mtb-training-psoc-edge-e84-intro-ecosystem) - This session covers everything you need to begin developing with PSOC™ Edge E84, including hardware and software tools, as well as development resources.
-
-- [PSOC™ Edge technical introduction](https://github.com/Infineon/mtb-training-psoc-edge-e84-features) - This training provides an introduction to key features of the PSOC™ E84 microcontrollers, including audio, graphics, sensor hub, memories, low power modes, and machine learning. 
-
-- [PSOC™ Edge memory usage](https://github.com/Infineon/mtb-training-psoc-edge-memory-usage) - This training introduces the PSOC™ Edge memory architecture and its key memory technologies, with a focus on low-power design. Hands-on labs demonstrate common memory management tasks, including placing code and data in specific memory sections and configuring memory retention.
-
-- [PSOC™ Edge importing and profiling a pretrained ML model](https://github.com/Infineon/mtb-training-psoc-edge-ml-importing-profiling) - This training covers optimizing neural network models for PSOC™ Edge devices, using techniques like pruning, sparsity, and quantization to reduce model size and improve efficiency. Hands-on labs demonstrate how these optimizations can significantly lower power consumption and improve performance.
-
-- [PSOC™ Edge implementing advanced graphics](https://github.com/Infineon/mtb-training-psoc-edge-graphics) - This training provides a practical introduction to advanced graphics development on PSOC™ Edge, focusing on graphics debugging, image compression with RLAD, GUI workflows with EEZ Studio and LVGL, and performance optimization using GPU acceleration. The session includes hands-on labs that guide you from bring-up and rendering fundamentals to measurable FPS improvements in real-time UI applications.
-
-- [PSOC™ Edge advanced voice and audio development](https://github.com/Infineon/mtb-training-psoc-edge-adv-voice-audio) - This training provides practical experience with voice and audio development on PSOC™ Edge, focusing on PDM microphone configuration, dynamic-range optimization, DEEPCRAFT™ Audio Enhancement, real-time tuning, and audio analysis. The hands-on labs cover the workflow from low-level audio capture and clipping analysis to real-time audio enhancement and multi-channel pipeline visualization.
-
-- [PSOC™ Edge Security Introduction](https://github.com/Infineon/mtb-training-psoc-edge-security-intro) - This training provides an introduction to fundamental security concepts, including cryptography basics, IoT security, and security threats; and then it explores the security features available in PSOC™ Edge, providing practical experience using Edge Protect Tools, provisioning the device, and enabling secured boot.
-
- - [PSOC™ Edge designing a secure system](https://github.com/Infineon/mtb-training-psoc-edge-security-system-design) - This training provides an overview of security strategies and best practices for designing secure embedded systems with PSOC™ Edge devices. It covers key concepts including threat modeling, hardware and software protection, secure boot, and encryption, guiding engineers in implementing robust security to protect embedded applications.
-
- - [PSOC™ Edge tips and tricks for security](https://github.com/Infineon/mtb-training-psoc-edge-security-tips-tricks) - This training offers practical tips and tricks for using secure features on PSOC™ Edge devices, covering topics such as accessing peripherals in the secure CM33 environment, booting from OSPI flash, and using the alternate serial interface, with links to relevant code examples and resources.
-
- - [PSOC™ Edge Extended Boot](https://github.com/Infineon/mtb-training-psoc-edge-security-extended-boot) - This session introduces Extended Boot, explaining its function within the hardware Root of Trust. Participants will learn how it verifies and launches RRAM_SE_BOOT and Extended Boot stored in the device’s RRAM. The training also explores Secure Boot capabilities and demonstrates how Edge Protect Tools can be used to provision PSOC™ Edge devices.
-
- - [PSOC™ Edge Protect Bootloader](https://github.com/Infineon/mtb-training-psoc-edge-security-edge-protect-bootloader) - This training offers an in-depth look at Edge Protect Bootloader, a protected MCUboot-based bootloader designed to enable secure boot and ensure authenticated, dependable firmware updates. A hands-on lab guides participants through real-world use of Edge Protect Bootloader for secure firmware deployment.
-
- - [PSOC™ Edge Trusted Firmware-M (TF-M)](https://github.com/Infineon/mtb-training-psoc-edge-security-tfm) - This module examines the TF-M architecture on PSOC™ Edge, detailing boot flow, isolation levels, profiles, and available services. It covers default TF-M settings, application integration, and customization using the Edge Protect Configurator.
-
- - [PSOC™ Edge Encryption](https://github.com/Infineon/mtb-training-psoc-edge-security-encryption) - This session focuses on encryption features for PSOC™ Edge, including single-key XIP encryption, multi-key XIP encryption, and secure encryption techniques. It concludes with a practical lab on enabling encryption through the Edge Protect Bootloader.
-
- - [PSOC™ Edge EPC2 vs EPC4 security features](https://github.com/Infineon/mtb-training-psoc-edge-security-epc2-vs-epc4) - This training provides an overview of the Infineon Edge Protect Category (EPC) security levels and compares the security features of PSOC™ Edge EPC2 and EPC4 devices. It focuses on the hardware-isolated Secure Enclave, security services, PSA certification levels, key storage, RRAM usage, protection-context switching, TF-M storage, and encryption support.
+- [PSOC™ Edge training](https://github.com/Infineon/mtb-training-psoc-edge) - Follow the getting-started sequence, then explore security, machine learning, graphics, voice and audio, and memory topics.
 
 ### PSOC™ 4
 
-- [PSOC™ 4 CAPSENSE™ training](https://github.com/Infineon/mtb-training-psoc-4-msclp-capsense) - This training introduces the 5th generation Multi-Sense Converter with Low-Power (MSCLP) available on the PSOC™ 4000T and PSOC™ 4100T Plus.
+- [PSOC™ 4 Multi-Sense training](https://github.com/Infineon/mtb-training-psoc-multi-sense) - Get started with PSOC™ 4 Multi-Sense and choose deeper dives into CAPSENSE™, inductive sensing, liquid-level sensing, BIST, and safety testing.
 
-- [PSOC™ 4 Inductive sensing (ISX) training](https://github.com/Infineon/mtb-training-psoc-4-msclp-inductive) - This training introduces Inductive sensing (ISX) on the 5th generation Multi-Sense Converter with Low-Power (MSCLP) available on the PSOC™ 4000T and PSOC™ 4100T Plus.
+### PSOC™ Control C3
 
-- [PSOC™ 4 Liquid Level Sensing (LLS) training](https://github.com/Infineon/mtb-training-psoc-4-msclp-lls) - This training introduces Liquid Level Sensing (LLS) on the 5th generation Multi-Sense Converter with Low-Power (MSCLP) available on the PSOC™ 4000T and PSOC™ 4100T Plus.
-
+- [PSOC™ Control C3 training](https://github.com/Infineon/mtb-training-psoc-control-c3) - A 12-session E2 course covering applications, architecture, peripherals, power, security, safety, development workflows, and motor control.
 
 ## Other devices
 
