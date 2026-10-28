@@ -13,8 +13,7 @@ This page contains links to ModusToolbox™ training classes that are available 
 ## Application-focused training
 
 ### Edge AI and machine learning
-
-- [DEEPCRAFT™ Studio](https://developer.imagimob.com/deepcraft-studio/tutorials/training-manual) - This training introduces the end-to-end DEEPCRAFT™ Studio workflow for collecting and labeling data, building and evaluating custom Edge AI models, generating code, and deploying models to Infineon microcontrollers.
+- [DEEPCRAFT™ Studio](https://developer.imagimob.com/deepcraft-studio/training-manual) - This training introduces the end-to-end DEEPCRAFT™ Studio workflow for collecting and labeling data, building and evaluating custom Edge AI models, generating code, and deploying models to Infineon microcontrollers.
 
 - [DEEPCRAFT™ Model Converter](https://developer.imagimob.com/deepcraft-model-converter/training-manual) - This training shows how to import, optimize, validate, and generate deployment code for pre-trained AI models targeting Infineon microcontrollers.
 
@@ -22,7 +21,7 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 ### PSOC™ Edge
 
-- [PSOC™ Edge training](https://github.com/luisreynosoIFX/mtb-training-psoc-edge) - Follow the getting-started sequence, then explore security, machine learning, graphics, voice and audio, and memory topics.
+- [PSOC™ Edge E8xG training](https://github.com/luisreynosoIFX/psoc-training-edge-e8xg) - Follow the getting-started sequence, then explore security, machine learning, graphics, voice and audio, and memory topics.
 
 ### PSOC™ 4
 
@@ -30,7 +29,7 @@ This page contains links to ModusToolbox™ training classes that are available 
 
 ### PSOC™ Control C3
 
-- [PSOC™ Control C3 training](https://github.com/luisreynosoIFX/mtb-training-psoc-control-c3) - A 12-session E2 course covering applications, architecture, peripherals, power, security, safety, development workflows, and motor control.
+- [PSOC™ Control C3 training](https://github.com/luisreynosoIFX/psoc-training-control-c3) - A 12-session E2 course covering applications, architecture, peripherals, power, security, safety, development workflows, and motor control.
 
 ## Other devices
 
